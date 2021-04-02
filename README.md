@@ -1,6 +1,6 @@
 # udagent
 
-The python agent provided by udagent.py runs locally and in the background for users of the Unitraverse browser application. This agent becomes the server handling calls from the user agent running on a specific port when the user access "http://localhost:&lt;port&gt;"
+The python agent provided by udagent.py runs locally and in the background for users of the Unitraverse browser application. This agent becomes the server handling calls from the user agent running on a specific port when the user access http&#47;&#47;:localhost:&lt;port&gt;
 
 'udagent.py' gives access to an 'images' directory and files that are accesssible to the user anywhere in the local computer.
 
